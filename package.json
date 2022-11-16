@@ -65,7 +65,7 @@
   "dependencies": {
     "detect-browser": "^4.7.0",
     "protobufjs": "~6.8.8",
-    "resize-observer": "^1.0.0"
+    "resize-observer": "^1.0.4"
   },
   "license": "Apache-2.0",
   "repository": {
